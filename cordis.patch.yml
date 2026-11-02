@@ -1,0 +1,3 @@
+- insert:
+    - id: token-spend
+      name: '@local/dsh-token-spend'

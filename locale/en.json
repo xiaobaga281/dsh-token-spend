@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Spend",
+    "description": "Adds a Spend page to Settings: real usage from every local session log counted as input + cache read + cache write + output, duplicated calls merged by message id, with a daily heatmap, usage composition, a 14-day trend and any day's detail. Usage of deleted sessions is kept in a local ledger."
+  }
+}
